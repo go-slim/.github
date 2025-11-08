@@ -2,7 +2,7 @@
 
 # go-slim
 
-A lightweight, easy-to-learn, high-performance, and feature-rich web framework built with Go
+A mirco web framework for Golang
 
 [🌐 Homepage](https://go-slim.dev) •
 [📖 Getting Started](https://go-slim.dev/tutorial/quick-start) •
