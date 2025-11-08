@@ -1,12 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+# go-slim
 
-**Here are some ideas to get you started:**
+A lightweight, easy-to-learn, high-performance, and feature-rich web framework built with Go
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[🌐 Homepage](https://go-slim.dev) •
+[📖 Getting Started](https://go-slim.dev/tutorial/quick-start) •
+[🎓 Ecosystem](https://go-slim.dev/ecosystem)
+
+### [_Get involved!_](https://github.com/go-slim/slim/discussions)
+
+</div>
